@@ -1,0 +1,88 @@
+body {
+    background: #d0d1bc;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: 'Times New Roman';
+}
+
+header {
+    background-color: #dbbcb4;
+    padding: 20px;
+    color: #382c21;
+    border-radius: 30px;
+}
+
+nav {
+    text-align: center;
+}
+
+    nav a {
+        margin: 25px;
+        color: #42372f;
+        border-style: solid;
+        border-color: #5c1508;
+        border-radius: 999px;
+        border-spacing: 15px;
+        background-color: #ded5c3;
+        padding: 10px;
+        font-size: 20px;
+    }
+
+h1 {
+    font-family: 'Times New Roman';
+    font-size: 38px;
+}
+
+h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #5e1e19;
+}
+
+h3 {
+    color: #781e24;
+}
+
+.btn:hover {
+    color: #939475
+}
+
+.gallery {
+    display: felx;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 30px;
+}
+
+label {
+    margin-left: 50px;
+    color: #453e38;
+    font-size: 22px;
+}
+
+input {
+    color: #42372f;
+    border-style: solid;
+    border-color: #5c1508;
+    border-radius: 999px;
+    border-spacing: 15px;
+    background-color: #ded5c3;
+    padding: 10px;
+    font-family: 'Times New Roman';
+    margin-left: 50px;
+}
+
+button {
+    color: #42372f;
+    border-style: solid;
+    border-color: #5c1508;
+    border-radius: 999px;
+    border-spacing: 15px;
+    background-color: #ded5c3;
+    padding: 10px;
+    font-family: 'Times New Roman';
+}
+
+footer {
+    text-align: center;
+}
